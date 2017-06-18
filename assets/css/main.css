@@ -437,4 +437,8 @@ a:after {
     .wp {
       margin-bottom: 80px;
     }
+
+    .pc {
+      margin-bottom: 20px;
+    }
 }
