@@ -431,7 +431,7 @@ a:after {
 
 @media screen and (max-width: 768px) {
     h3 {
-        font-size:20px;
+        font-size: 15px;
     }
 
     .wp {
